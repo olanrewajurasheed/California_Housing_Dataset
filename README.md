@@ -1,1 +1,1 @@
-# California_Housing_Dataset
+- A well detailed data exploration, analysis, cleaning, feature engineering and modelling for the widely known California Housing Dataset.
